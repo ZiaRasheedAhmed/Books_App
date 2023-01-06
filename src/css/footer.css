@@ -1,0 +1,16 @@
+footer {
+    width: 100vw;
+    height: 20vh;
+    background-color:peru ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 200px;
+}
+footer .icon ul {
+    display: block;
+    list-style: none;
+}
+footer i {
+    font-size: 50px;
+}

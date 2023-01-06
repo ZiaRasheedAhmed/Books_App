@@ -1,0 +1,17 @@
+/* .form{
+    transform: translate(-700px);
+    position: relative;
+} */
+.navbar{
+    background-color:peru ;
+}
+.navbar-brand{
+    color: black;
+}
+.btn{
+    color: black;
+}
+.user{
+    margin: 5px;
+    color: black;
+}
