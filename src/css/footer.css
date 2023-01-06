@@ -1,7 +1,7 @@
 footer {
     width: 100vw;
-    height: 20vh;
-    background-color:peru ;
+    height: 10vh;
+    background-image: linear-gradient(-60deg, peru, rgb(255, 166, 0) 100%);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -12,5 +12,5 @@ footer .icon ul {
     list-style: none;
 }
 footer i {
-    font-size: 50px;
+    font-size: 30px;
 }

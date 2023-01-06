@@ -7,7 +7,7 @@ const Navbar = () => {
         <>
             <nav className="navbar ">
                 <div className="container-fluid">
-                    <a className="navbar-brand">Reading Way</a>
+                    <h2 className="navbar-brand">Wisdom Gateway </h2>
                     <form className="form d-flex justify-content-center">
                         <input className="form-control me-2 " type="search" placeholder="Search" aria-label="Search"/>
                             <button className="btn btn-outline-warning" type="submit">Search</button>
